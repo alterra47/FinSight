@@ -21,9 +21,7 @@
 * **Data Source:** Yahoo Finance (yfinance)
 
 ## 📸 Demo
-*(Place your screenshot here - e.g., 'dashboard_demo.png')*
-![Dashboard Screenshot](<img width="1917" height="1077" alt="Screenshot 2026-01-15 112141" src="https://github.com/user-attachments/assets/5815b34c-3382-4e9b-a26f-e731e69edcfb" />
-)
+<img width="1917" height="1077" alt="Screenshot 2026-01-15 112141" src="https://github.com/user-attachments/assets/b9ce9489-16b1-4f43-8d74-84ca28aeb7b4" />
 
 ## ⚙️ Installation & Setup
 
@@ -94,5 +92,3 @@ The application will launch in your browser at `http://localhost:8501`.
 ---
 
 *Built by Aaditya Khare as a project to explore LLM applications in Fintech.*
-
-```
